@@ -9,3 +9,4 @@
 | 2024 Nov 30 | Plasma | [It's a Monster House!](https://osu.ppy.sh/beatmapsets/2281005) |
 | 2024 Dec 28 | - AzRaeL - | [Vandalism](https://osu.ppy.sh/beatmapsets/2271613) |
 | 2025 Feb 01 | Sotarks | [Kokou no Sousei (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2312148) |
+| 2025 Mar 14 | Shiny Braixen | [save me fox girl!!](https://osu.ppy.sh/beatmapsets/2267190) |
