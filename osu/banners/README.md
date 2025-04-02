@@ -10,3 +10,4 @@
 | 2024 Dec 28 | - AzRaeL - | [Vandalism](https://osu.ppy.sh/beatmapsets/2271613) |
 | 2025 Feb 01 | Sotarks | [Kokou no Sousei (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2312148) |
 | 2025 Mar 14 | Shiny Braixen | [save me fox girl!!](https://osu.ppy.sh/beatmapsets/2267190) |
+| 2025 Apr 2 | Sotarks | [Songs Compilation VI](https://osu.ppy.sh/beatmapsets/2347113) |
