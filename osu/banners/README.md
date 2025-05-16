@@ -12,3 +12,4 @@
 | 2025 Mar 14 | Shiny Braixen | [save me fox girl!!](https://osu.ppy.sh/beatmapsets/2267190) |
 | 2025 Apr 2 | Sotarks | [Songs Compilation VI](https://osu.ppy.sh/beatmapsets/2347113) |
 | 2025 May 12 | Asahina Oleshev | [oyasumination](https://osu.ppy.sh/beatmapsets/2348542) |
+| 2025 May 16 | Kaoruishi | [Songs Compilation](https://osu.ppy.sh/beatmapsets/2349134) |
