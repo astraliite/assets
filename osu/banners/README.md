@@ -13,3 +13,4 @@
 | 2025 Apr 2 | Sotarks | [Songs Compilation VI](https://osu.ppy.sh/beatmapsets/2347113) |
 | 2025 May 12 | Asahina Oleshev | [oyasumination](https://osu.ppy.sh/beatmapsets/2348542) |
 | 2025 May 16 | Kaoruishi | [Songs Compilation](https://osu.ppy.sh/beatmapsets/2349134) |
+| 2025 Jun 11 | deannn | [Hachigatsu no Yoru (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2355684) |
