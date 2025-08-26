@@ -1,7 +1,7 @@
 # Old Banners
 
 - Includes banners uploaded in s-ul and/or Discord
-- Currently featuring all banners from **2018** to **2020**
+- Currently featuring all banners from **2019** to **2020**
 - Missing Acacia, Rockefeller Street, Songs Compilations 3 and 4
 
 
