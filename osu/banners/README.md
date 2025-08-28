@@ -15,3 +15,4 @@
 | 2025 May 16 | Kaoruishi | [Songs Compilation](https://osu.ppy.sh/beatmapsets/2349134) | [Link](./Kaoruishi/cartoon_sc.webp) |
 | 2025 Jun 11 | deannn | [Hachigatsu no Yoru (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2355684) | [Link](./deannn/hachigatsu_no_yoru_cut_ver.gif) |
 | 2025 Jun 15 | leledorf | [Dokuryuu no Cobra](https://osu.ppy.sh/beatmapsets/2329714) | [Link](./leledorf/dokuryuu_no_cobra.webp) |
+| 2025 Aug 28 | Sotarks | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) | [Link](./Sotarks/of_our_time.webp) |
