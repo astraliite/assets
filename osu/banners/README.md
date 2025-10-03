@@ -17,3 +17,4 @@
 | 2025 Jun 15 | leledorf | [Dokuryuu no Cobra](https://osu.ppy.sh/beatmapsets/2329714) | [Link](./leledorf/dokuryuu_no_cobra.webp) |
 | 2025 Aug 28 | Sotarks | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) | [Link](./Sotarks/of_our_time.webp) |
 | 2025 Aug 28 | Sotarks | [Of Our Time (osu! Edit)](https://osu.ppy.sh/beatmapsets/2422687) | [Link](./Sotarks/of_our_time_osu_edit.webp) |
+| 2025 Oct 3 | Sotarks | [No title -10 Years Later Edition- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2436628) | [Link](./Sotarks/no_title_10_years_later_edition.webp) |
