@@ -2,6 +2,7 @@
 
 | Date | Mapper | Beatmap | Banner |
 | --- | --- | --- | --- |
+| 2023 Jan 24 | - AzRaeL - | [Requiem for the Aura](https://osu.ppy.sh/beatmapsets/2424142) | [Link](./-%20AzRaeL%20-/requiem-for-the-aura.webp) (Updated 2025 Oct 25) |
 | 2024 Aug 30 | -Zeraora | [Outlaw!](https://osu.ppy.sh/beatmapsets/777946) | [Link](./-Zeraora/outlaw.webp) |
 | 2024 Nov 16 | Sotarks | [Can't look away](https://osu.ppy.sh/beatmapsets/2274433) | [Link](./Sotarks/) |
 | 2024 Nov 21 | Sotarks | [Sentou! Battle Tower](https://osu.ppy.sh/beatmapsets/2276943) | [Link](./Sotarks/sentou_battle_tower.webp) |
@@ -18,3 +19,4 @@
 | 2025 Aug 28 | Sotarks | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) | [Link](./Sotarks/of_our_time.webp) |
 | 2025 Aug 28 | Sotarks | [Of Our Time (osu! Edit)](https://osu.ppy.sh/beatmapsets/2422687) | [Link](./Sotarks/of_our_time_osu_edit.webp) |
 | 2025 Oct 3 | Sotarks | [No title -10 Years Later Edition- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2436628) | [Link](./Sotarks/no_title_10_years_later_edition.webp) |
+| 2025 Nov 13 | - AzRaeL - | [Violet Fragmenta](https://osu.ppy.sh/beatmapsets/2429471) | [Link](./-%20AzRaeL%20-/violet-fragmenta.webp) |
