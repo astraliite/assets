@@ -20,3 +20,4 @@
 | 2025 Aug 28 | Sotarks | [Of Our Time (osu! Edit)](https://osu.ppy.sh/beatmapsets/2422687) | [Link](./Sotarks/of_our_time_osu_edit.webp) |
 | 2025 Oct 3 | Sotarks | [No title -10 Years Later Edition- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2436628) | [Link](./Sotarks/no_title_10_years_later_edition.webp) |
 | 2025 Nov 13 | - AzRaeL - | [Violet Fragmenta](https://osu.ppy.sh/beatmapsets/2429471) | [Link](./-%20AzRaeL%20-/violet-fragmenta.webp) |
+| 2026 Jan 12 | leledorf | [Oh No!](https://osu.ppy.sh/beatmapsets/2487347) | [Link](./leledorf/oh_no.webp) |
