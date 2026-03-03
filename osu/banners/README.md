@@ -11,13 +11,14 @@
 | 2024 Dec 28 | - AzRaeL - | [Vandalism](https://osu.ppy.sh/beatmapsets/2271613) | [Link](./-%20AzRaeL%20-/vandalism.webp) |
 | 2025 Feb 01 | Sotarks | [Kokou no Sousei (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2312148) | [Link](./Sotarks/kokou_no_sousei_cut.webp) |
 | 2025 Mar 14 | Shiny Braixen | [save me fox girl!!](https://osu.ppy.sh/beatmapsets/2267190) | [Link](./Shiny%20Braixen/save_me_fox_girl.jpg) |
-| 2025 Apr 2 | Sotarks | [Songs Compilation VI](https://osu.ppy.sh/beatmapsets/2347113) | [Link](./Sotarks/songs_compilation_vi.webp) |
+| 2025 Apr 02 | Sotarks | [Songs Compilation VI](https://osu.ppy.sh/beatmapsets/2347113) | [Link](./Sotarks/songs_compilation_vi.webp) |
 | 2025 May 12 | Asahina Oleshev | [oyasumination](https://osu.ppy.sh/beatmapsets/2348542) | [Link](./Asahina%20Oleshev/oyasumination.webp) |
 | 2025 May 16 | Kaoruishi | [Songs Compilation](https://osu.ppy.sh/beatmapsets/2349134) | [Link](./Kaoruishi/cartoon_sc.webp) |
 | 2025 Jun 11 | deannn | [Hachigatsu no Yoru (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2355684) | [Link](./deannn/hachigatsu_no_yoru_cut_ver.gif) |
 | 2025 Jun 15 | leledorf | [Dokuryuu no Cobra](https://osu.ppy.sh/beatmapsets/2329714) | [Link](./leledorf/dokuryuu_no_cobra.webp) |
 | 2025 Aug 28 | Sotarks | [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) | [Link](./Sotarks/of_our_time.webp) |
 | 2025 Aug 28 | Sotarks | [Of Our Time (osu! Edit)](https://osu.ppy.sh/beatmapsets/2422687) | [Link](./Sotarks/of_our_time_osu_edit.webp) |
-| 2025 Oct 3 | Sotarks | [No title -10 Years Later Edition- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2436628) | [Link](./Sotarks/no_title_10_years_later_edition.webp) |
+| 2025 Oct 03 | Sotarks | [No title -10 Years Later Edition- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2436628) | [Link](./Sotarks/no_title_10_years_later_edition.webp) |
 | 2025 Nov 13 | - AzRaeL - | [Violet Fragmenta](https://osu.ppy.sh/beatmapsets/2429471) | [Link](./-%20AzRaeL%20-/violet-fragmenta.webp) |
 | 2026 Jan 12 | leledorf | [Oh No!](https://osu.ppy.sh/beatmapsets/2487347) | [Link](./leledorf/oh_no.webp) |
+| 2026 Mar 03 | Asahina Oleshev | [Lvstlove](https://osu.ppy.sh/beatmapsets/2487347) | [Link](./Asahina%20Oleshev/lvstlove.webp) |
