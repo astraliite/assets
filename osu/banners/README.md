@@ -25,3 +25,4 @@
 | 2026 May 27 | - AzRaeL - | [1116](https://osu.ppy.sh/beatmapsets/2559443) | [Link](./-%20AzRaeL%20-/1116.webp) |
 | 2026 Jun 02 | Shiny Braixen | [ends of the earth](https://osu.ppy.sh/beatmapsets/2421629) | [Link](./Shiny%20Braixen/ends_of_the_earth.jpg) |
 | 2026 Jun 20 | Sotarks | [Departure Song](https://osu.ppy.sh/beatmapsets/2571603) | [Link](./Sotarks/departure-song.webp) |
+| 2026 Oct 18 | Sotarks | [Songs Compilation VII](https://osu.ppy.sh/beatmapsets/2637051) | [Link](./Sotarks/songs_compilation_vii.webp) |
